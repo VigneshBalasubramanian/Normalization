@@ -1,0 +1,9 @@
+@relation mmtest
+
+@attribute x real
+@attribute y real
+@attribute class real
+
+@data
+    0.400000 1200.000000
+    0.335631  123.503213
